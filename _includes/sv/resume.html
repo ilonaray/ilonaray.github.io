@@ -1,6 +1,6 @@
 <h3 class="section-title">ERFARENHET</h3>
 <dl class="experience">
-    {% for job in site.data.jobs %}
+    {% for job in site.data.sv.jobs %}
         <dt>
             <p class="title">{{ job.title }}</p>
             <p class="company">{{ job.company }}</p>
@@ -14,7 +14,7 @@
 
 <h3 class="section-title">UTBILDNING</h3>
 <dl class="experience">
-    {% for qualification in site.data.education %}
+    {% for qualification in site.data.sv.education %}
         <dt>
             <p class="title">{{ qualification.qualification }}</p>
             <p class="company">{{ qualification.school }}</p>
