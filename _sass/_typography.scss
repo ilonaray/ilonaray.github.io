@@ -1,0 +1,19 @@
+// @name Typography
+// @description All typography settings and styles
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Oswald');
+
+// Our variables
+$base-font-family: 'Open Sans Condensed', sans-serif;
+$base-font-size:   22px;
+
+body {
+    font-family: $base-font-family, serif;
+    font-size: $base-font-size;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+}
+
+a{
+    text-decoration: none;
+}

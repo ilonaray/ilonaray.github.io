@@ -1,0 +1,14 @@
+destination: ../build
+title: title
+name: Ilona Iliza Ray
+email: ilonailizaray@gmail.com
+description: Min CV
+baseurl: ""
+url: "https://ilonaray.github.io"
+
+# Build settings
+markdown: kramdown
+
+prose:
+    rooturl: '_data'
+    siteurl: "https://ilonaray.github.io"
