@@ -17,3 +17,8 @@ body {
 a{
     text-decoration: none;
 }
+@media(max-width: 640px) {
+    p{
+        font-size: 0.8em;
+    }
+}

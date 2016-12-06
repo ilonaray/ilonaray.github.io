@@ -2,10 +2,11 @@
 // @description All header styles
 
 header {
+
     border-bottom: 1px solid #edefee;
     padding: ($spacer * 2) 0;
     margin-bottom: ($spacer * 2);
-
+    height: 100%;
     @media(min-width: 640px) {
         padding: ($spacer * 10) 0 ($spacer * 3);
         margin-bottom: ($spacer * 3);
@@ -13,7 +14,9 @@ header {
 }
 
 .intro {
+    margin-top: ($spacer * 6);
     margin-bottom: ($spacer * 2);
+    height: 100%;
 
     &__pre, &__post {
         text-transform: uppercase;
@@ -33,6 +36,11 @@ header {
         }
     }
 }
+@media(min-width: 640px) {
+    .intro {
+        margin-top: ($spacer * 2);
+    }
+}
 
 .social {
     a {
@@ -40,9 +48,18 @@ header {
     }
 }
 
+
 #intro_more{
     margin-top: 19px;
-    max-width: 60%;
+    max-width: 100%;
+    font-size: .7em;
+}
+@media(min-width: 640px) {
+    #intro_more{
+        margin-top: 19px;
+        max-width: 60%;
+        font-size: .8em;
+    }
 }
 
 .intro_main{
