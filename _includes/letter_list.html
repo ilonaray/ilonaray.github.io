@@ -1,0 +1,9 @@
+<div class="container">
+    <div id=letter_list>
+        <ul>
+            {% for post in site.posts %}
+            <li><span style=opacity:0.2;margin-right:6px;>></span> <a href="{{ post.url }}">{{ post.title }}</a>  <span style=margin-left:7px;vertical-align:middle class=date>{{ post.date | date: "%b %Y" }}</span> 
+            {% endfor %}
+        </ul>
+    </div>
+</div>

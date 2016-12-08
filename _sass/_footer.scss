@@ -1,17 +1,64 @@
 // @name Footer
 // @description All footer styles
 
-.footer {
+footer {
     padding: ($spacer * 2) $spacer;
     text-align: center;
     border-top: 1px solid #edefee;
-
-    &__title {
-        font-size: 1.2rem;
-        font-weight: bold;
+    text-align: left;
+}
+footer li{
+    float: left;
+    width: 100%;
+    padding-right: 5%;
+    padding-bottom: 50px;
+    padding: 10%;
+}
+@media(min-width: 640px) {
+    footer li{
+        width: 50%;
+        padding: 61px 2% 92px 0
     }
+}
 
-    &__subtitle {
-        text-transform: capitalize;
+footer .adress{
+    font-size: 18px;
+}
+footer .contact{
+    margin-top: 5px;
+    font-size: 18px;
+    padding-top: 5px;
+}
+footer #name{
+    letter-spacing: 4px;
+    font-size: 30px;
+}
+
+footer #photo{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ccc;
+    margin: 0 auto;
+    border-radius: 100px;
+    background-image: url('../img/avatar.jpg');
+    background-size: contain;
+    position: relative;
+}
+@media(min-width: 640px) {
+    footer #photo{
+        margin: 0 0 0 auto;
     }
+}
+
+footer #overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(255, 255, 255, 0.3) url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAYAAACddGYaAAAAD0lEQVQIW2NkQABjRmQOAAM+AGkQsDBSAAAAAElFTkSuQmCC) repeat;
+    width: 100%;
+    height: 100%;
+    border-radius: 100px;
+}
+footer ul a{
+    background-color: transparent;
 }

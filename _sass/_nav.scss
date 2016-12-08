@@ -9,11 +9,11 @@ nav ul li {
     opacity: 0.5;
 }
 
-ol, ul {
+ol, nav ul {
     float: right;
 }
 @media(min-width: 640px) {
-    ol, ul {
+    ol, nav ul {
         float: left;
     }
 }

@@ -1,0 +1,27 @@
+#letter {
+    margin-top: ($spacer * 6);
+    margin-bottom: ($spacer * 2);
+    height: 100%;
+    color: rgba(50,50,50, 0.8);
+    text-shadow: 1px 4px 6px #fff, 0 0 0 #000, 1px 4px 6px #fff;
+}
+
+#letter h2 {
+    font-size: 29px;
+    line-height: 1.2;
+    margin: 10px 0 20px;
+    max-width: 89%;
+}
+
+#letter p {
+    margin-top: 23px;
+    max-width: 79%;
+    font-size: 23px;
+}
+
+p#letter_pre {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 20px;
+    margin-bottom: 25px;
+}

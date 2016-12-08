@@ -7,14 +7,14 @@
     <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'/>
 
     <title>{{ site.title }}{% if page.title %} - {{ page.title }} {% endif%}</title>
-    <meta name="description" content="{{ site.data.sv.about }}">
+    <meta name="description" content="{{site.name}}. {{ site.data.sv.about.about }}">
     <meta name="author" content="{{ site.name }}">
 
     <!-- FACEBOOK -->
     <meta property="og:url"         content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
     <meta property="og:type"        content="article" />
-    <meta property="og:title"       content="{{ site.title }}" />
-    <meta property="og:description" content="{{ site.data.sv.about }}">
+    <meta property="og:title"       content="{{ site.name }}" />
+    <meta property="og:description" content="{{ site.data.sv.about.about }}">
     <meta property="og:image"       content="{{ site.url }}img/screen.jpg" />
 
 
@@ -23,8 +23,8 @@
     <meta name="twitter:site" content="@develdoe" />
     <meta name="twitter:image:src" content="{{ site.url }}img/screen.jpg">
     <meta name="twitter:url" content="{{ site.url }}">
-    <meta name="twitter:title" content="{{ site.site }}"  />
-    <meta property="og:description" content="{{ site.data.sv.about }}">
+    <meta name="twitter:title" content="{{ site.name }}"  />
+    <meta property="og:description" content="{{ site.data.sv.about.about }}">
 
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">

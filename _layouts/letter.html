@@ -1,6 +1,6 @@
 <!--
 URL                 : http://andreeray.se
-Site Description    : My name is {{site.name}}. {{ site.data.about.about }}
+Description         : Mitt namn är {{site.name}}. {{site.data.sv.about.about}}
 Date:               : Winter 2016
 Author              : Morgan A Ray @ {{site.company}}
 company             : {{site.company}}
@@ -12,9 +12,7 @@ Company url         : {{site.company_url}}
 
     {% include head.html %}
     <body>
-        {% include nav.html %}
-        {% include header.html %}
-            {{ content }}
+        {% include letter.html %}
         {% include footer.html %}
     </body>
 </html>

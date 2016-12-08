@@ -1,3 +1,7 @@
--   qualification: titel
-    school: skola
-    description: beskrivning
+-   qualification: qualification
+    school: school
+    description: description
+
+-   qualification: qualification
+    school: school
+    description: description
