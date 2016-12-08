@@ -1,10 +1,10 @@
 destination: ../build
 site: boilerpate - resume
-name: name
-email: email
+name: Ilona Iliza Ray
+email: ilonailizaray@gmail.com
 description: personal resume
 baseurl: ""
-url: "http://example.ex/"
+url: "http://ilonaray.github.io/"
 
 
 
@@ -12,7 +12,7 @@ url: "http://example.ex/"
 markdown: kramdown
 
 prose:
-    siteurl: "http://example.ex/"
+    siteurl: "http://ilonaray.github.io/"
     ignore:
         - index.html
         - CNAME
