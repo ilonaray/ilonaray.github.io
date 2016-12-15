@@ -32,6 +32,10 @@ prose:
               field:
                   element: "text"
                   label: "title"
+            - name: "layout"
+              field:
+                  element: "hidden"
+                  value: "letter"
 
 company: wimse
 company_desc: wimse är en komplett och kreativ webbbyrå belägen i göteborg. Vi hjälper företag till ökad lönsamhet genom att förbättra och utveckla afärsmodeller. Genom kreativt tänkande, nyskapande idéer och med tekniskt lösningar kan vi tillsammans förbättra din verksamhet. Vi skapar plattformat som tilltalar och stärker din profilering och närvaro på Internet.
