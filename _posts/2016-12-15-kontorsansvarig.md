@@ -11,7 +11,11 @@ Som ni ser i mitt CV har jag arbetat med många olika saker genom åren och har 
 
 Jag trivs bra och är duktig på att ha många bollar i luften och jag tycker om närjag har mycket att göra och klarar stress bra. I många av mina tidigare tjänster har jag fungerat som "spindeln i nätet" och det har jag trivts väldigt bra med. Jag är väldigt flexibel och tar dagen som den kommer. Dyker det upp problem på vägen ser jag till att lösa dem. 
 
-Jag hoppas att ni vill
+Jag hoppas att ni vill träffa mig så jag kan berätta mer om mig och vad jag kan.
+
+Med vänlig hälsning 
+
+Ilona Iliza Ray
 
 
 
