@@ -1,6 +1,6 @@
 ---
 layout: letter
-published: false
+published: true
 title: Kontorsansvarig
 ---
 ## Hej,
