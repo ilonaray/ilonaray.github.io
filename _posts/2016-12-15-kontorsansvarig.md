@@ -9,7 +9,7 @@ Jag heter Ilona och arbetar idag som speditör med customer service och logistik
 
 Som ni ser i mitt CV har jag arbetat med många olika saker genom åren och har lärt mig otroligt mycket av varje tjänst. Mina starka sidor är att jag är glad och possitiv som gärna hittar nya vägar och lösningar samtidigt som jag är väldigt noggran i det jag gör. Jag vill alltid göra mitt bästa. Jag får min energi och arbetsglädje från människor runt omkring mig och vill gärna vara med att skapa en glad och trevlig arbetsmiljö. Jag har väldigt lätt för att lära och är inte rädd för nya utmaningar.
 
-Jag trivs bra och är duktig på att ha många bollar i luften och mina tjä Jag gillar när jag har mycket att göra och klarar stress bra. Jag är väldigt flexibel och tar dagen som den kommer. Dyker det upp problem på vägen ser jag till att lösa dem.
+Jag trivs bra och är duktig på att ha många bollar i luften och jag tycker om närjag har mycket att göra och klarar stress bra. I många av mina tidigare tjänster har jag fungerat som "spindeln i nätet" och det har jag trivts väldigt bra med. Jag är väldigt flexibel och tar dagen som den kommer. Dyker det upp problem på vägen ser jag till att lösa dem. 
 
 Jag hoppas att ni vill
 
