@@ -21,7 +21,7 @@ Jag hoppas att ni vill träffa mig så att jag kan berätta mer om mig själv oc
 
 Med vänlig hälsning
 
-Ilona Iliza Ray Fionis Hedgren Feldt Larsson Karlsson Fridalainen Buggaloo Bill
+Ilona Iliza Ray 
 
 
 
